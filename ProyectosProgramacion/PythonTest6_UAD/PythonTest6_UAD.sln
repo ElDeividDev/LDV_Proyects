@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonTest6_UAD", "PythonTest6_UAD\PythonTest6_UAD.pyproj", "{EE61C4AE-6AC1-473E-9169-1F33356468CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE61C4AE-6AC1-473E-9169-1F33356468CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE61C4AE-6AC1-473E-9169-1F33356468CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1595730-E449-4178-9717-4AED14DA06A7}
+	EndGlobalSection
+EndGlobal

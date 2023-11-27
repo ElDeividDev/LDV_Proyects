@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonLDVCalculadora 23 10 23", "PythonLDVCalculadora 23 10 23\PythonLDVCalculadora 23 10 23.pyproj", "{029293F1-9E8E-4DE2-BE2D-30772117020A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029293F1-9E8E-4DE2-BE2D-30772117020A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029293F1-9E8E-4DE2-BE2D-30772117020A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69ABB9C-C907-4E26-BA8F-CDA2595EA805}
+	EndGlobalSection
+EndGlobal
